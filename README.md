@@ -39,7 +39,7 @@ This project demonstrates the implementation of an **8-Point Inverse Fast Fourie
 
 ---
 
-## 📋 Project Journey
+##  Project Journey
 
 I built this project to understand how FPGAs perform complex math like IFFT using Xilinx IP cores. Here are the steps I followed:
 
