@@ -27,3 +27,7 @@ The simulation runs on a **50 MHz clock** (20 ns clock period).
 The hardware takes the frequency domain inputs and maps them into composite 16-bit packed spatial vectors. For example, an input sequence of `[100, 50, 0, 20, 0, 10, 0, 80]` is processed into structural 2's complement hexadecimal values on the output bus (e.g., `16'hD864`), tracking precise proportional components for both Real and Imaginary domains.
 
 ---
+### INPUT
+![image](https://github.com/shreyasingh2302vl10/IFFT_using_IP_Core/blob/de7755eff34aa1724d1672378992a7e19f0680b1/Screenshot%202026-06-10%20023900.png)
+### OUTPUT
+![image](https://github.com/shreyasingh2302vl10/IFFT_using_IP_Core/blob/de7755eff34aa1724d1672378992a7e19f0680b1/Screenshot%202026-06-10%20023936.png)
