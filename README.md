@@ -28,7 +28,7 @@ The hardware takes the frequency domain inputs and maps them into composite 16-b
 
 ---
 
-## 📊 Results Verification
+## Results Verification
 
 The hardware takes frequency domain inputs and maps them into composite 16-bit packed spatial vectors. By converting the output Hex values (2's complement) to signed decimals, I verified the IFFT math against the expected results.
 ### INPUT
