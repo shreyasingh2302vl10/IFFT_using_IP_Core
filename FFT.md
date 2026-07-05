@@ -1,5 +1,7 @@
-# OUTPUT_INPUT
+# OUTPUT
 ![image](https://github.com/shreyasingh2302vl10/IFFT_using_IP_Core/blob/b9d0e9ff10fc74155dc4b500f452710cf62cf76a/Screenshot%202026-07-06%20022951.png)
+# Comparision
+![image](https://github.com/shreyasingh2302vl10/IFFT_using_IP_Core/blob/d22ab5701b1175a5c2c9b166e40337f4fe5c8dc2/Screenshot%202026-07-06%20025513.png)
 # CODE
 ```verilog
 `timescale 1ns / 1ps
